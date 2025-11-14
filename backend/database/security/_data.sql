@@ -1,0 +1,2 @@
+-- Seed data for the 'security' schema.
+-- This file can contain initial roles, permissions, or a default admin user.

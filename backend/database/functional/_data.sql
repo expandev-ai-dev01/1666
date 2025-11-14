@@ -1,0 +1,2 @@
+-- Seed data for the 'functional' schema.
+-- This file should contain initial business data, like default categories or product types.
