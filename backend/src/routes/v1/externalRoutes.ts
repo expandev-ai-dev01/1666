@@ -4,10 +4,11 @@
  * These routes do not require authentication.
  */
 import { Router } from 'express';
+import productRoutes from './productRoutes';
 
 const router = Router();
 
 // [+] INTEGRATION POINT: Add external feature routes here
-// Example: router.use('/products', productPublicRoutes);
+router.use('/product', productRoutes);
 
 export default router;
